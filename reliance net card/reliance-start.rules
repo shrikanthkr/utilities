@@ -1,0 +1,1 @@
+ACTION=="add",SUBSYSTEM=="usb",ENV{DEVTYPE}=="usb_device",ATTRS{idVendor}=="19d2",ATTRS{idProduct}=="ffe9",RUN+="/usr/local/startRe.sh"

@@ -1,0 +1,11 @@
+put wvconf in /etc
+
+Use .startRe.sh for starting the reliance net card after installing wvdial
+
+
+Rules for starting reliance or any usb
+
+put reliance-start-rules in /etc/udev/rules.d
+
+
+
